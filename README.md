@@ -1,4 +1,6 @@
-# Este proyecto es un sistema de gestión de gastos desarrollado utilizando MongoDB, Angular y Node.js. El sistema está diseñado para ayudar a las organizaciones a gestionar y visualizar los gastos de diferentes departamentos de manera eficiente. Proporciona una interfaz intuitiva para agregar, visualizar y analizar los gastos, así como un backend robusto para manejar la lógica y la base de datos.
+# MiniCore
+
+Este proyecto es un sistema de gestión de gastos desarrollado utilizando MongoDB, Angular y Node.js. El sistema está diseñado para ayudar a las organizaciones a gestionar y visualizar los gastos de diferentes departamentos de manera eficiente. Proporciona una interfaz intuitiva para agregar, visualizar y analizar los gastos, así como un backend robusto para manejar la lógica y la base de datos.
 
 # Estructura del Proyecto
 
